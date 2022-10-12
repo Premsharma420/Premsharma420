@@ -10,37 +10,12 @@ You can click the Preview link to take a look at your changes.
 ---> https://www.facebook.com/Kaminachora420
 
 pkg update
-
-
 pkg upgrade
-
-
-
 pkg install python
-
-
-
 pkg install python2
-
-
-
 pip install requests
-
-
-
 pip install bs4
-
-
-
 pkg install git
-
-
 git clone https://github.com/PREM-BALOCH/PREM
-
-
-
 cd prem 
-
-
-
 python HAADI.py
